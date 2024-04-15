@@ -24,3 +24,9 @@ Alternativamente, você pode baixar o arquivo "LotofacilGUI.jar".
 # Contribuições
 
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+# DEMO
+
+
+https://github.com/gbbao/Linguagens-de-Programacao/assets/144962740/5fbb20a9-7d17-44e7-8cd5-a7a7b1d5297b
+
